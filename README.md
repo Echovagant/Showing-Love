@@ -18,4 +18,4 @@
 
 1. **克隆仓库**：
    ```bash
-   git clone https://github.com/[Echovagant]/[仓库名].git
+   git clone https://github.com/Echovagant/Showing-Love.git
